@@ -46,7 +46,7 @@
   "engines": {
     "node": "18.0.0 - 22.x.x"
   },
-  "homepage": ".",
+  "homepage": "/excalidraw-dist/",
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
     "build-node": "node ./scripts/build-node.js",
